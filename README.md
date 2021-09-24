@@ -21,23 +21,23 @@ ctx.fillText("Hello World!", 5, 30)
 ### `fonts["AmericanTypewriter"]`
 ![./imgs/AmericanTypewriter.png](./imgs/AmericanTypewriter.png)
 ### `fonts["Arial Black"]`
-![./imgs/Arial Black.png](./imgs/Arial Black.png)
+![./imgs/Arial%20Black.png](./imgs/Arial%20Black.png)
 ### `fonts["Arial Bold Italic"]`
-![./imgs/Arial Bold Italic.png](./imgs/Arial Bold Italic.png)
+![./imgs/Arial%20Bold%20Italic.png](./imgs/Arial%20Bold%20Italic.png)
 ### `fonts["Arial Bold"]`
-![./imgs/Arial Bold.png](./imgs/Arial Bold.png)
+![./imgs/Arial%20Bold.png](./imgs/Arial%20Bold.png)
 ### `fonts["Arial Italic"]`
-![./imgs/Arial Italic.png](./imgs/Arial Italic.png)
+![./imgs/Arial%20Italic.png](./imgs/Arial%20Italic.png)
 ### `fonts["Arial Narrow Bold Italic"]`
-![./imgs/Arial Narrow Bold Italic.png](./imgs/Arial Narrow Bold Italic.png)
+![./imgs/Arial%20Narrow%20Bold%20Italic.png](./imgs/Arial%20Narrow%20Bold%20Italic.png)
 ### `fonts["Arial Narrow Bold"]`
-![./imgs/Arial Narrow Bold.png](./imgs/Arial Narrow Bold.png)
+![./imgs/Arial%20Narrow%20Bold.png](./imgs/Arial%20Narrow%20Bold.png)
 ### `fonts["Arial Narrow Italic"]`
-![./imgs/Arial Narrow Italic.png](./imgs/Arial Narrow Italic.png)
+![./imgs/Arial%20Narrow%20Italic.png](./imgs/Arial%20Narrow%20Italic.png)
 ### `fonts["Arial Narrow"]`
-![./imgs/Arial Narrow.png](./imgs/Arial Narrow.png)
+![./imgs/Arial%20Narrow.png](./imgs/Arial%20Narrow.png)
 ### `fonts["Arial Rounded Bold"]`
-![./imgs/Arial Rounded Bold.png](./imgs/Arial Rounded Bold.png)
+![./imgs/Arial%20Rounded%20Bold.png](./imgs/Arial%20Rounded%20Bold.png)
 ### `fonts["Arial"]`
 ![./imgs/Arial.png](./imgs/Arial.png)
 ### `fonts["Baskerville"]`
@@ -45,17 +45,17 @@ ctx.fillText("Hello World!", 5, 30)
 ### `fonts["Chalkduster"]`
 ![./imgs/Chalkduster.png](./imgs/Chalkduster.png)
 ### `fonts["Comic Sans MS Bold"]`
-![./imgs/Comic Sans MS Bold.png](./imgs/Comic Sans MS Bold.png)
+![./imgs/Comic%20Sans%20MS%20Bold.png](./imgs/Comic%20Sans%20MS%20Bold.png)
 ### `fonts["Comic Sans MS"]`
-![./imgs/Comic Sans MS.png](./imgs/Comic Sans MS.png)
+![./imgs/Comic%20Sans%20MS.png](./imgs/Comic%20Sans%20MS.png)
 ### `fonts["Courier New Bold Italic"]`
-![./imgs/Courier New Bold Italic.png](./imgs/Courier New Bold Italic.png)
+![./imgs/Courier%20New%20Bold%20Italic.png](./imgs/Courier%20New%20Bold%20Italic.png)
 ### `fonts["Courier New Bold"]`
-![./imgs/Courier New Bold.png](./imgs/Courier New Bold.png)
+![./imgs/Courier%20New%20Bold.png](./imgs/Courier%20New%20Bold.png)
 ### `fonts["Courier New Italic"]`
-![./imgs/Courier New Italic.png](./imgs/Courier New Italic.png)
+![./imgs/Courier%20New%20Italic.png](./imgs/Courier%20New%20Italic.png)
 ### `fonts["Courier New"]`
-![./imgs/Courier New.png](./imgs/Courier New.png)
+![./imgs/Courier%20New.png](./imgs/Courier%20New.png)
 ### `fonts["Helvetica"]`
 ![./imgs/Helvetica.png](./imgs/Helvetica.png)
 ### `fonts["HelveticaNeue"]`
@@ -75,16 +75,16 @@ ctx.fillText("Hello World!", 5, 30)
 ### `fonts["SignPainter"]`
 ![./imgs/SignPainter.png](./imgs/SignPainter.png)
 ### `fonts["Tahoma Bold"]`
-![./imgs/Tahoma Bold.png](./imgs/Tahoma Bold.png)
+![./imgs/Tahoma%20Bold.png](./imgs/Tahoma%20Bold.png)
 ### `fonts["Tahoma"]`
 ![./imgs/Tahoma.png](./imgs/Tahoma.png)
 ### `fonts["Times New Roman Bold Italic"]`
-![./imgs/Times New Roman Bold Italic.png](./imgs/Times New Roman Bold Italic.png)
+![./imgs/Times%20New%20Roman%20Bold%20Italic.png](./imgs/Times%20New%20Roman%20Bold%20Italic.png)
 ### `fonts["Times New Roman Bold"]`
-![./imgs/Times New Roman Bold.png](./imgs/Times New Roman Bold.png)
+![./imgs/Times%20New%20Roman%20Bold.png](./imgs/Times%20New%20Roman%20Bold.png)
 ### `fonts["Times New Roman Italic"]`
-![./imgs/Times New Roman Italic.png](./imgs/Times New Roman Italic.png)
+![./imgs/Times%20New%20Roman%20Italic.png](./imgs/Times%20New%20Roman%20Italic.png)
 ### `fonts["Times New Roman"]`
-![./imgs/Times New Roman.png](./imgs/Times New Roman.png)
+![./imgs/Times%20New%20Roman.png](./imgs/Times%20New%20Roman.png)
 ### `fonts["Times"]`
 ![./imgs/Times.png](./imgs/Times.png)
