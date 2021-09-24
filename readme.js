@@ -14,5 +14,5 @@ for(let i = 0; i < fontNames.length; i++) {
 	ctx.fillText(name, 5, 30)
 	fs.writeFileSync(`./imgs/${name}.png`, canvas.toBuffer())
 	fs.writeFileSync('./README.md', `### \`fonts["${name}"]\`\n`, { flag: 'a' })
-	fs.writeFileSync('./README.md', `![./imgs/${encodeURI(name)}.png](./imgs/${encodeURI(name)}.png)\n`, { flag: 'a' })
+	fs.writeFileSync('./README.md', `![](https://github.com/retrohacker/font-collection/raw/master/imgs/${encodeURI(name)}.png)\n`, { flag: 'a' })
 }
